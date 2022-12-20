@@ -1,7 +1,6 @@
 import random
 
 # il programma è diviso in blocchi:
-
 # blocco zero: inizializzazione e ordine dell'array
 # primo blocco: si chiede il numero degli interrogati all'utente
 # secondo blocco: si chiede all'utente le persone assenti quel giorno
