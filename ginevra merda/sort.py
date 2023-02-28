@@ -48,11 +48,11 @@ print("Insertion sort time started")
 
 sortedWithInsertion = insertion_sort(n)
 
-print("--- Insertion sort %s seconds ---" % (time.time() - start_time))
+print(f"--- Insertion sort {(time.time() - start_time)} seconds ---")
 
 start_time2 = time.time()
 print("Quick sort time started")
 
 sortedWithQuickSort = quicksort(n)
 
-print("--- Quick sort %s seconds ---" % (time.time() - start_time2))
+print(f"--- Insertion sort {(time.time() - start_time2)} seconds ---")
